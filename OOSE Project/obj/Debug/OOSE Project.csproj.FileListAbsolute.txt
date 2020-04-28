@@ -1,0 +1,45 @@
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\bin\Debug\OOSE Project.exe.config
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\bin\Debug\OOSE Project.exe
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\bin\Debug\OOSE Project.pdb
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE Project.csprojAssemblyReference.cache
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.Form1.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.Properties.Resources.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE Project.csproj.GenerateResource.cache
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE Project.csproj.CoreCompileInputs.cache
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE Project.exe
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE Project.pdb
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.Login.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.Homepage.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.Contacts.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.SingleContact.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.SplashScreen.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.AddContact.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.UpdateContact.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.AddDocument.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.Documents.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.SingleDocument.resources
+C:\Users\Deepang\source\repos\OOSE Project\OOSE Project\obj\Debug\OOSE_Project.ViewImage.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\bin\Debug\DTC_new.mdf
+D:\Docs-ToDo-Contacts-master\OOSE Project\bin\Debug\DTC_new_log.ldf
+D:\Docs-ToDo-Contacts-master\OOSE Project\bin\Debug\OOSE Project.exe.config
+D:\Docs-ToDo-Contacts-master\OOSE Project\bin\Debug\OOSE Project.exe
+D:\Docs-ToDo-Contacts-master\OOSE Project\bin\Debug\OOSE Project.pdb
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE Project.csprojAssemblyReference.cache
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.AddContact.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.AddDocument.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.Contacts.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.Documents.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.Form1.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.Homepage.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.Login.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.Properties.Resources.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.SingleContact.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.SingleDocument.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.SplashScreen.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.UpdateContact.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.UpdateDoc.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.UpdateDocDetails.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE_Project.ViewImage.resources
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE Project.csproj.GenerateResource.cache
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE Project.exe
+D:\Docs-ToDo-Contacts-master\OOSE Project\obj\Debug\OOSE Project.pdb
